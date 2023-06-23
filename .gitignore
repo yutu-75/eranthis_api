@@ -664,3 +664,4 @@ migrations/
 **/logs/*
 **/test/*
 **/*.ini
+configurations/config.ini
