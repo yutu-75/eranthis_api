@@ -166,34 +166,27 @@ class ReptileClient:
             'https': '127.0.0.1:7890'
         }
         self.cookies = {
-            's_v_web_id': 'verify_li1uukdj_9BsnlqYV_MzH7_4Cn5_BBQV_bB4bfk86t6Ir',
-            'MONITOR_WEB_ID': 'df62bea9-5a04-4546-b301-71e69fd68d13',
+            'Hm_lvt_2667d29c8e792e6fa9182c20a3013175': '1694597640',
+            'csrf_session_id': 'c3f63de44a0cf8b17aa54ce9ad26ee9f',
+            's_v_web_id': 'verify_lmhjojva_a3VciEOn_yTaU_4ILV_8eN6_lSfp8VAcHAAX',
             'novel_web_id': '7236769868573804066',
-            'passport_csrf_token': 'c3e59c25c9ac7c312f539399e5f3eb33',
-            'passport_csrf_token_default': 'c3e59c25c9ac7c312f539399e5f3eb33',
-            '_tea_utm_cache_2018': 'undefined',
-            'd_ticket': '98451e1f02cfcc4a489562a95b7b114db4b68',
-            'odin_tt': 'a550c8ba5a62774b2231c770c2e99191b405a5eb3c189713442373e63da8dac27d660e0375b52464f41f31516de2574f',
+            'passport_csrf_token': '9b36a035a5c7661157c3b0a1c1640e14',
+            'passport_csrf_token_default': '9b36a035a5c7661157c3b0a1c1640e14',
+            'odin_tt': '7a101fd27a531827ccc49f1e07f8c69584f7056dc08499318141826a0ff3077910e9b259c2e9dae290a7a10af4bb0abc',
             'n_mh': 'NCNPUY4KobWicisVMLB1U3djIl6v8SCci-lihMuAu3c',
-            'passport_auth_status': '5485eeaf2a0b58ad1f6cac3e4b3fff29%2C',
-            'passport_auth_status_ss': '5485eeaf2a0b58ad1f6cac3e4b3fff29%2C',
-            'sid_guard': '5dc13401666564e40d01a31d79c88590%7C1684941943%7C5184000%7CSun%2C+23-Jul-2023+15%3A25%3A43+GMT',
-            'uid_tt': 'fc4ea54e2bd5ab6d4fec68860dcb1d21',
-            'uid_tt_ss': 'fc4ea54e2bd5ab6d4fec68860dcb1d21',
-            'sid_tt': '5dc13401666564e40d01a31d79c88590',
-            'sessionid': '5dc13401666564e40d01a31d79c88590',
-            'sessionid_ss': '5dc13401666564e40d01a31d79c88590',
-            'sid_ucp_v1': '1.0.0-KGFjYzA5ODY2ZTUxZDBiZmIxZGJjZGJkNGFhODQwYzgzMzM4NWM2MzIKHQj269T33wIQ99i4owYYxxMgDDDlju7UBTgCQPEHGgJscSIgNWRjMTM0MDE2NjY1NjRlNDBkMDFhMzFkNzljODg1OTA',
-            'ssid_ucp_v1': '1.0.0-KGFjYzA5ODY2ZTUxZDBiZmIxZGJjZGJkNGFhODQwYzgzMzM4NWM2MzIKHQj269T33wIQ99i4owYYxxMgDDDlju7UBTgCQPEHGgJscSIgNWRjMTM0MDE2NjY1NjRlNDBkMDFhMzFkNzljODg1OTA',
+            'sid_guard': 'a38c86452d13928110d8695db9140573%7C1694598176%7C5184000%7CSun%2C+12-Nov-2023+09%3A42%3A56+GMT',
+            'uid_tt': '59c2ede8bc2a9261f5b5dde5df7b896c',
+            'uid_tt_ss': '59c2ede8bc2a9261f5b5dde5df7b896c',
+            'sid_tt': 'a38c86452d13928110d8695db9140573',
+            'sessionid': 'a38c86452d13928110d8695db9140573',
+            'sessionid_ss': 'a38c86452d13928110d8695db9140573',
+            'sid_ucp_v1': '1.0.0-KGFmNzZiMDZhZmEzMTg2ODY4YmFlODRmODgwYTczNmFhOGI0MjljODkKHQj269T33wIQoIiGqAYYxxMgDDDlju7UBTgHQPQHGgJscSIgYTM4Yzg2NDUyZDEzOTI4MTEwZDg2OTVkYjkxNDA1NzM',
+            'ssid_ucp_v1': '1.0.0-KGFmNzZiMDZhZmEzMTg2ODY4YmFlODRmODgwYTczNmFhOGI0MjljODkKHQj269T33wIQoIiGqAYYxxMgDDDlju7UBTgHQPQHGgJscSIgYTM4Yzg2NDUyZDEzOTI4MTEwZDg2OTVkYjkxNDA1NzM',
             'store-region': 'jp',
             'store-region-src': 'uid',
-            'Hm_lvt_2667d29c8e792e6fa9182c20a3013175': '1684941804,1685202527,1685292156,1685544018',
-            'Hm_lpvt_2667d29c8e792e6fa9182c20a3013175': '1685544018',
-            'csrf_session_id': 'f92530feda2606382389a2d44cc893eb',
-            'ttwid': '1%7C11fhLuzlgqEMdF8lfDq92K7si8LO9nXz59Hs5AExPfI%7C1685544028%7Ce53582c26cac3a5665c291a5ab458b86ffa408160c94bd6ea0d9c7921ada0678',
-            'msToken': 'oj0fivOSedMxnTI3-wbn2S7jJVVDPustk_EE_nyNKAyqcv6HDpjUmNGKma9PehUNBphQfeeDdjz7ktyBv9b0PanhOKxgYBjdWH3hBEaRfGo5YIYGSKOf',
-            # 'msToken': 'QUvYC0jaGVaMeetVCNxjz7ASuIAD8rJUoKjqlVI5OcBiFvjqSg72_wym6PwPwWGOvbMFxk3RkfKzbWnW1WZQpQKhijRI0I8Q1OkJDSEAeVBjXzmDKZ3B',
-            'tt_scid': 'u3ZxAvRGNY3orWkTocgFnIQLzHdkYYo6QF2e4t4JYSYhrZFOXfcT-La7z7I3UFN4db4c',
+            'ttwid': '1%7C11fhLuzlgqEMdF8lfDq92K7si8LO9nXz59Hs5AExPfI%7C1694598189%7C8213ba55ef9811b5758e4fb6293550fbedeac1d760d0c5e7058117a1e7bdddd2',
+            'msToken': 'ZsWgeM9aK48w4DwULdameRg9Bre1kBGnKfWt9YFz1RfdZPCfw6ijiXFkW33IKfyrJ3DDLhx5ginRMOus82hVrv68afdcpHTGXrL2wO_ffT8QEWRX586MJVi3fzINIUw=',
+            'Hm_lpvt_2667d29c8e792e6fa9182c20a3013175': '1694598182',
         }
         self.col = mongo_client.col_books  # 创建/进入集合
 
@@ -241,14 +234,26 @@ class ReptileClient:
             "query_word": book_name
         }, result_type="json")
 
+        if self.col.find_one({"book_name": book_name}, {"book_id": 1}):
+            return
         for i in page_text.get("data").get("search_book_data_list"):
             self.to_db(i)
+
             break
             # if i["author"] == "九当家":
             #     self.to_db(i)
             #     break
 
         return page_text
+
+    @staticmethod
+    def download_img(img_url, new_book_id):
+        response = requests.get(img_url)
+
+        with open(f"../static/{new_book_id}.png", 'wb') as file:
+            for chunk in response.iter_content(1024):
+                file.write(chunk)
+        return f"/static/{new_book_id}.png"
 
     def get_book_chapter(self, book_id):
         """
@@ -257,6 +262,7 @@ class ReptileClient:
         :return:
         """
         response = self.get_response_data(f"{self.chapter_url}{book_id}", result_type="text")
+        # print(response)
         tree = etree.HTML(response)
         chapter_all_list = []
 
@@ -268,20 +274,21 @@ class ReptileClient:
 
         return text_href_list
 
-    def get_book_content(self, url):
+    def get_book_content(self, url, book_name, author):
         """
         获取章节内容
+        :param author:
+        :param book_name:
         :param url:
         :return:
         """
 
         response = self.get_response_data(url, result_type="text")
-        # print(response)
         tree = etree.HTML(response)
-        content_text = tree.xpath(f"//*[@id='app']/div/div/div/div[3]/div[2]/div//text()")
-        book_name = tree.xpath("//*[@id='app']/div/div/div/div[3]/div[1]/span[1]/a//text()")
-        author = tree.xpath("//*[@id='app']/div/div/div/div[3]/div[1]/span[2]/a//text()")
-        chapters_word_count = tree.xpath("//*[@id='app']/div/div/div/div[3]/div[1]/span[3]/text()[1]")
+        content_text = tree.xpath(f"//*[@id='app']/div/div/div/div[2]//text()")
+        # book_name = tree.xpath("//*[@id='app']/div/div/div/div[3]/div[1]/span[1]/a//text()")
+        # author = tree.xpath("//*[@id='app']/div/div/div/div[3]/div[1]/span[2]/a//text()")
+        # chapters_word_count = tree.xpath("//*[@id='app']/div/div/div/div[3]/div[1]/span[3]/text()[1]")
         last_chapter_time = tree.xpath("//*[@id='app']/div/div/div/div[3]/div[1]/span[4]/text()")
 
         new_content_text = []
@@ -293,18 +300,22 @@ class ReptileClient:
 
             new_content_text.append(c_i)
 
+        content_text = "\n  ".join(new_content_text).replace("上一章", "").replace("下一章", "")
+
         result_dict = {
-            "book_name": book_name[0] if book_name else "",
-            "author": author[0] if author else "",
-            "chapters_word_count": chapters_word_count[0] if chapters_word_count else "",
+            "book_name": book_name,
+            "author": author,
+            "chapters_word_count": len(content_text),
             "last_chapter_time": last_chapter_time[0] if last_chapter_time else "",
-            "content_text": "\n  ".join(new_content_text),
+            "content_text": content_text,
         }
+
         return result_dict
 
-    def add_chapter_content(self, book_id, book_name):
+    def add_chapter_content(self, book_id, book_name, author):
         """
         添加每一章节的内容
+        :param author:
         :param book_id:
         :param book_name:
         :return:
@@ -312,19 +323,22 @@ class ReptileClient:
         text_href_list = self.get_book_chapter(book_id)
 
         for index, t_h in enumerate(text_href_list):
-
-            if not self.col.find_one({"parts.chapter_name": t_h[0]}, {"book_id": 1}):
-                result_dict = self.get_book_content(t_h[1])
+            book_data = self.col.find_one({"parts.chapter_name": t_h[0]}, {"book_id": 1})
+            if not book_data:
+                result_dict = self.get_book_content(t_h[1], book_name, author)
                 chapter_id = t_h[1].split("/")[-1]
                 content_text_id = self.col.insert_one({
                     "content_text": result_dict["content_text"],
                     "chapter_id": chapter_id,
                     "book_name": result_dict["book_name"],
+                    "author": result_dict["author"],
+                    "type": "content",
                 }).inserted_id
                 parts_data = {
                     "$addToSet": {"parts": {
                         "chapter_id": chapter_id,
-                        "next_chapter_id": chapter_id if index == len(text_href_list)-1 else text_href_list[index+1][1].split("/")[-1],
+                        "next_chapter_id": chapter_id if index == len(text_href_list) - 1 else
+                        text_href_list[index + 1][1].split("/")[-1],
                         "chapter_name": t_h[0],
                         "chapter_url": t_h[1],
                         "book_name": result_dict["book_name"],
@@ -335,16 +349,19 @@ class ReptileClient:
 
                     }}  # 是向数组对象中添加元素和值，操作对象必须为数组类型的字段
                 }
-
+                # print(parts_data)
                 self.col.update_one(
                     {"book_name": book_name}, parts_data)
                 time.sleep(1)
 
     def to_db(self, data=None):
-
+        if self.col.find_one({"book_name": to_db_data["book_name"]}):
+            return
+        new_book_id = get_new_uuid()
+        data["thumb_url"] = self.download_img(data["thumb_url"], new_book_id)
         to_db_data["parts"].clear()
         to_db_data["book_id"] = data["book_id"]
-        to_db_data["new_book_id"] = get_new_uuid()
+        to_db_data["new_book_id"] = new_book_id
         to_db_data["book_name"] = data["book_name"]
         to_db_data["thumb_url"] = data["thumb_url"]
         to_db_data["author"] = data["author"]
@@ -357,9 +374,9 @@ class ReptileClient:
         to_db_data["last_chapter_id"] = data["last_chapter_id"]
         to_db_data["book_abstract"] = data["book_abstract"]
         to_db_data["first_chapter_id"] = data["first_chapter_id"]
-        print(to_db_data)
-        if not self.col.find_one({"book_name": to_db_data["book_name"]}):
-            self.col.insert_one(to_db_data)  # 插入数据
+        to_db_data["type"] = "details"
+        # print(to_db_data)
+        self.col.insert_one(to_db_data)  # 插入数据
 
 
 if __name__ == '__main__':
@@ -371,7 +388,9 @@ if __name__ == '__main__':
     # with open("data.json", 'w') as f:
     #     f.write(json.dumps(search_all_list))
 
-    # print(reptile_client.search_book('灵舟'))
+    # print(reptile_client.search_book('汽包'))
+    # reptile_client.add_chapter_content("6569997542090607620", "灵舟")
+
     # print(reptile_client.search_book("天域丹尊"))
     # print(reptile_client.add_chapter_content("6851451000734092301", "理想国"))
     # print(reptile_client.get_book_chapter("7177580416302337082"))
@@ -380,9 +399,13 @@ if __name__ == '__main__':
     # reptile_client.add_chapter_content("6775194486248049678", "天域丹尊")
     # print(reptile_client.get_book_content("https://fanqienovel.com/reader/6775234172882518535"))
 
+    print(reptile_client.search_book('理想国'))
+    reptile_client.add_chapter_content("7124986336406146062", "理想国", "柏拉图")
+
+    # print(reptile_client.search_book('弃猫 当我谈起父亲时'))
+    # reptile_client.add_chapter_content("7050408665831984136", "弃猫 当我谈起父亲时", "（日）村上春树")
 
     # print(reptile_client.search_book('理想国'))
     # reptile_client.add_chapter_content("7124986336406146062", "理想国")
 
-    # print(reptile_client.search_book('弃猫 当我谈起父亲时'))
-    reptile_client.add_chapter_content("7050408665831984136", "弃猫 当我谈起父亲时")
+    # 搜索模糊匹配
